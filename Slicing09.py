@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[1:len(s)+1:2]
+    return s[0:len(s)+1:2]
 
 print(main("123456789"))
 
