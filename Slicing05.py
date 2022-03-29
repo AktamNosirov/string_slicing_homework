@@ -9,3 +9,4 @@ def main(s,n):
     """
     return s[-n:len(s)+1]
 print(main("gfhfgjsstj",3))
+

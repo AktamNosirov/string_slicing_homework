@@ -9,3 +9,4 @@ def main(s):
     return s[1:len(s)+1:2]
 
 print(main("123456789"))
+
