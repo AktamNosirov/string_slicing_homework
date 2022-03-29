@@ -11,3 +11,5 @@ def main(s,n,k):
     return s[n:k]
 
 print(main("123456789",3,6))
+
+
